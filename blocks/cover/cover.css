@@ -1,0 +1,26 @@
+.cover{
+    max-width: 100%;
+    margin: 92px auto 92px;
+    position: relative;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+
+
+@media screen and (max-width: 786px){
+    .cover {
+        
+        margin: 90px auto 88px;
+        
+    }
+}
+
+@media screen and (max-width: 650px){
+    .cover {
+        margin: 66px auto 64px ;
+    }
+}

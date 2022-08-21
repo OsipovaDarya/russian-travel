@@ -1,0 +1,9 @@
+.header__links{
+    margin: 0;
+    padding-top: 18px;
+    display: flex;
+    gap: 18px;
+    height: 28px;
+    color: #FFFFFF;
+}
+
