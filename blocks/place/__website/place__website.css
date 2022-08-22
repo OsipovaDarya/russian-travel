@@ -1,5 +1,5 @@
 .place__website {
-    max-height: 46px ;
+    max-height: 46px;
     grid-column: 2 / 2;
     display: grid;
     align-self: end;

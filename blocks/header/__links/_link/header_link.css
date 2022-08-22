@@ -1,7 +1,6 @@
 .header_link {
 width: 29px;
 height: 28px;
-font-size: 24px;
 color: #FFFFFF;
 padding: 0;
 font-weight: 400;
@@ -14,7 +13,6 @@ text-decoration-line: underline;
 @media screen and (max-width: 320px) {
     .header_link
 {
-    
     font-size: 18px;
     line-height: 20px;
 }
