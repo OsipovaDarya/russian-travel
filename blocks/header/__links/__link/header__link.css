@@ -1,4 +1,4 @@
-.header__links_link {
+.header__link {
 width: 29px;
 height: 28px;
 color: #FFFFFF;
@@ -11,7 +11,7 @@ text-decoration-line: underline;
 }
 
 @media screen and (max-width: 320px) {
-    .header_link
+    .header__link
 {
     font-size: 18px;
     line-height: 20px;
