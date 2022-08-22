@@ -38,9 +38,9 @@
 @import url(../blocks/intro/__lists/_list/intro__list.css);
 @import url(../blocks/intro/__number/intro__number.css);
 
-/* photo-grid_item */
+/* photo-grid__item */
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/_item/photo-grid_item.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 /* place */
 @import url(../blocks/place/place.css);
