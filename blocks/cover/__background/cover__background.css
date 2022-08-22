@@ -22,7 +22,7 @@ text-decoration: none;
     left: 0;
     bottom: 0;
     right: 0;
-    transition:  0.5s ;
+    transition: 0.5s;
 }
 .cover__background:hover:before {
     opacity: 0.8;
