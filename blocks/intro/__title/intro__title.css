@@ -4,22 +4,20 @@ font-weight: 900;
 font-size: 54px;
 line-height: 58px;
 color: #FFFFFF;
-margin: 92px 0 40px ;
+margin: 92px 0 40px;
 }
 
 
 
 @media screen and (max-width: 1024px){
     .intro__title {
-        max-width: calc(100% - 2 * 92px) ;
-        
-        
+        max-width: calc(100% - 2 * 92px);
     }
 }
 
 @media screen and (max-width: 768px){
     .intro__title {
-        max-width: calc(100% - 2 * 24px) ;
+        max-width: calc(100% - 2 * 24px);
     }
 }
 @media screen and (max-width: 680px){
@@ -27,6 +25,5 @@ margin: 92px 0 40px ;
         margin-top: 64px;
         font-size: 32px;
         line-height: 35px;
-    
     }
 }
