@@ -3,13 +3,9 @@
     grid-column: 2 / 2;
     display: grid;
     align-self: end;
-    margin: 0 0 48px;
+    
 }
-@media screen and (max-width: 768px){
-    .place__website {
-        margin: 0 0 48px;
-    }
-}
+
 
 @media screen and (max-width: 650px){
     .place__website {
