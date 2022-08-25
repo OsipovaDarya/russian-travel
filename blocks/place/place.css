@@ -23,10 +23,9 @@
         margin-top: 73px;
     }
 }
-@media screen and (max-width: 650px){
+@media screen and (max-width: 767px){
     .place {
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: auto;
         row-gap: 32px;
         margin-top: 50px;
     }

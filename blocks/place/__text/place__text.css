@@ -13,13 +13,8 @@
     }
 }
 
-@media screen and (max-width: 768px){
-    .place__text {
-        max-width: 352px;
-    }
-}
 
-@media screen and (max-width: 650px){
+@media screen and (max-width: 767px){
     .place__text{
         margin: 0 16px 0;
         grid-column: 1 / 1;
