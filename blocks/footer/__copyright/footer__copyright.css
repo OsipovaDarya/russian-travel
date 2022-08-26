@@ -1,5 +1,4 @@
 .footer__copyright {
-display: flex;
 margin: 0;
 font-weight: 400;
 font-size: 14px;
@@ -8,3 +7,9 @@ text-align: right;
 color: #FFFFFF;
 }
 
+@media screen and (max-width: 767px){
+    .footer__copyright {
+        text-align: left;
+
+    }
+}
